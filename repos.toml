@@ -1,7 +1,0 @@
-[bash-config]
-path="/home/max/Git/config/bash-config"
-remote="origin"
-
-[vim-config]
-path="/home/max/Git/config/vim-config"
-remote="origin"
