@@ -1,0 +1,3 @@
+[repo]
+path="/path/to/repo"
+remote="name of remote to pull from"
